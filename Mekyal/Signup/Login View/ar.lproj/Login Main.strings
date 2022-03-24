@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "Villa"; ObjectID = "0Jf-d4-Hyp"; */
+"0Jf-d4-Hyp.text" = "فيلا";
+
+/* Class = "UILabel"; text = "Area"; ObjectID = "0Kd-HX-9By"; */
+"0Kd-HX-9By.text" = "قطاع";
+
+/* Class = "UILabel"; text = "Select your Gender"; ObjectID = "3Bl-pk-CxV"; */
+"3Bl-pk-CxV.text" = "اختر النوع";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "7mk-AL-kRb"; */
+"7mk-AL-kRb.normalTitle" = "التالى";
+
+/* Class = "UILabel"; text = "Group"; ObjectID = "8HK-1i-h2E"; */
+"8HK-1i-h2E.text" = "تجمع";
+
+/* Class = "UILabel"; text = "Step 2"; ObjectID = "AOS-rT-du7"; */
+"AOS-rT-du7.text" = "الخطوه التاليه";
+
+/* Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "COa-3A-BYg"; */
+"COa-3A-BYg.normalTitle" = "تأكيد";
+
+/* Class = "UITextField"; text = "VG1"; ObjectID = "Cax-SH-MD5"; */
+"Cax-SH-MD5.text" = "VG1";
+
+/* Class = "UITextField"; placeholder = "Enter your address"; ObjectID = "EnJ-fY-SlN"; */
+"EnJ-fY-SlN.placeholder" = "ادخل عنوان المحل";
+
+/* Class = "UILabel"; text = "Enter your location"; ObjectID = "Jf9-ZX-Qnw"; */
+"Jf9-ZX-Qnw.text" = "ادخل موقعك الحالى";
+
+/* Class = "UILabel"; text = "Choose your Language"; ObjectID = "Kwj-px-Ark"; */
+"Kwj-px-Ark.text" = "ادخل اللغه المراد عرضها";
+
+/* Class = "UITextField"; text = "5"; ObjectID = "Njn-Zz-Ie1"; */
+"Njn-Zz-Ie1.text" = "5";
+
+/* Class = "UILabel"; text = "Resend in 00:52s"; ObjectID = "Q30-4r-NYe"; */
+"Q30-4r-NYe.text" = "اعد الارسال فى ٠٠:٥٢ ثانيه";
+
+/* Class = "UILabel"; text = "+2"; ObjectID = "Soy-9i-LYG"; */
+"Soy-9i-LYG.text" = "+2";
+
+/* Class = "UITextField"; text = "0-20"; ObjectID = "WCc-EZ-zkq"; */
+"WCc-EZ-zkq.text" = "0-20";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "Weg-Yp-SeY"; */
+"Weg-Yp-SeY.text" = "1";
+
+/* Class = "UILabel"; text = "Residential type"; ObjectID = "X6T-bM-RXb"; */
+"X6T-bM-RXb.text" = "نوع السكن";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "ZEf-Mb-7Rs"; */
+"ZEf-Mb-7Rs.text" = "تأكيد";
+
+/* Class = "UILabel"; text = "Apt"; ObjectID = "aaP-LV-NXs"; */
+"aaP-LV-NXs.text" = "شقه";
+
+/* Class = "UILabel"; text = "Verify your number"; ObjectID = "baJ-HR-PQf"; */
+"baJ-HR-PQf.text" = "أكد رقم هاتفك";
+
+/* Class = "UILabel"; text = "العربية"; ObjectID = "bgf-MC-vGK"; */
+"bgf-MC-vGK.text" = "العربية";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "dua-nR-n1D"; */
+"dua-nR-n1D.text" = "العمر";
+
+/* Class = "UITextField"; text = "3"; ObjectID = "fKx-rg-93b"; */
+"fKx-rg-93b.text" = "3";
+
+/* Class = "UILabel"; text = "By continuing you agree to our\n"; ObjectID = "fzN-aQ-s8b"; */
+"fzN-aQ-s8b.text" = "بمجرد انك اكملت الخطوات فإنك موافق على\n";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "g4k-g6-AQR"; */
+"g4k-g6-AQR.text" = "English";
+
+/* Class = "UILabel"; text = "Step 3"; ObjectID = "h7x-We-wud"; */
+"h7x-We-wud.text" = "الخطوه الثالثه";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "hl3-Zp-VNf"; */
+"hl3-Zp-VNf.text" = "المدينه";
+
+/* Class = "UITextField"; text = "Egypt"; ObjectID = "krd-zc-Tqt"; */
+"krd-zc-Tqt.text" = "مصر";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "lEc-WH-ErL"; */
+"lEc-WH-ErL.normalTitle" = "التالى";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Phone Number"; ObjectID = "n4d-Ks-We9"; */
+"n4d-Ks-We9.placeholder" = "من فضلك ادخل رقم هاتفك";
+
+/* Class = "UILabel"; text = "+201273101459"; ObjectID = "nZS-Nx-h7x"; */
+"nZS-Nx-h7x.text" = "+201273101459";
+
+/* Class = "UITextField"; text = "Villa"; ObjectID = "qhh-ol-Ucb"; */
+"qhh-ol-Ucb.text" = "فيلا";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "rPp-oy-LVe"; */
+"rPp-oy-LVe.normalTitle" = "تسجبل الحساب";
+
+/* Class = "UITextField"; placeholder = "Enter your Name"; ObjectID = "s7P-BM-kHC"; */
+"s7P-BM-kHC.placeholder" = "ادخل اسم المستخدم";
+
+/* Class = "UILabel"; text = "Enter 4 digit code that sent to"; ObjectID = "tUL-mp-kqL"; */
+"tUL-mp-kqL.text" = "من فضلك ارسل لنا الاربع خانات التى وصلت لك عن طريقنا";
+
+/* Class = "UITextField"; text = "Madinty"; ObjectID = "uDC-vn-cOK"; */
+"uDC-vn-cOK.text" = "مدينتي";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "wm5-DM-56I"; */
+"wm5-DM-56I.text" = "الجنسيه";
+
+/* Class = "UILabel"; text = " Terms and Conditions"; ObjectID = "x6c-89-8Eb"; */
+"x6c-89-8Eb.text" = " القوانين والاحكام";
+
+/* Class = "UITextField"; placeholder = "Enter your Name"; ObjectID = "yH9-Sm-JCV"; */
+"yH9-Sm-JCV.placeholder" = "ادخل اسمك";

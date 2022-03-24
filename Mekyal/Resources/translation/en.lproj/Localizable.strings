@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Mekyal
+
+  Created by Mohamed Ali on 17/01/2022.
+  
+*/
+
+"lang" = "eng";
+
+"Villa"              = "Villa";
+"Building"           = "Building";
+"Commercial"         = "Commercial";
+"Resend in "         = "Resend in ";
+"s"                  = "s";
+"EGP"                = "EGP";
+"KG"                 = "KG";
+"PCs"                = "PCs";
+"Quantity"           = "Quantity";
+"SearchPlaceHolder"  = "What do you need";
+"NotePlaceHolder"    = "Any special request";
+
+"update"             = "update";
+"Cancel"             = "Cancel";
+
+"UpdateName"         = "Update name";
+"userNewName"        = "Enter your new user name:";
+"EnterName"          = "Enter your name";
+
+"Updateaddress"      = "Update address";
+"newaddress"         = "Enter your new address:";
+"EnterAddress"       = "Enter your address";
+
+"Updatetelephone"    = "Update telephone";
+"newtele"            = "Enter your new telephone:";
+"Entertelephone"     = "Enter your telephone";
+
+"Logout"             = "logout";
+"logmess"            = "Are your sure to log out?";
+
+"track"              = "track your order";

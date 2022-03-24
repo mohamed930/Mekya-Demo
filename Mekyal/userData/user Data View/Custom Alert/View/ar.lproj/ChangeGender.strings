@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "8cc-OW-5Na"; */
+"8cc-OW-5Na.normalTitle" = "تأكيد";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "94i-FL-nZp"; */
+"94i-FL-nZp.normalTitle" = "الغاء الامر";
+
+/* Class = "UILabel"; text = "Edit gender"; ObjectID = "KOI-ra-o03"; */
+"KOI-ra-o03.text" = "تعديل النوع";

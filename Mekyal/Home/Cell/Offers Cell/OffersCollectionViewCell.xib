@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Cell" id="gTV-IL-0wX" customClass="OffersCollectionViewCell" customModule="Mekyal" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="330" height="140"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="330" height="140"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6t7-fk-JlY">
+                        <rect key="frame" x="0.0" y="0.0" width="330" height="140"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="offers" translatesAutoresizingMaskIntoConstraints="NO" id="diZ-ea-TX7">
+                                <rect key="frame" x="0.0" y="0.0" width="330" height="140"/>
+                            </imageView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="diZ-ea-TX7" firstAttribute="height" secondItem="6t7-fk-JlY" secondAttribute="height" id="Fxv-Fz-wZ7"/>
+                            <constraint firstItem="diZ-ea-TX7" firstAttribute="centerY" secondItem="6t7-fk-JlY" secondAttribute="centerY" id="kkS-9k-u83"/>
+                            <constraint firstItem="diZ-ea-TX7" firstAttribute="centerX" secondItem="6t7-fk-JlY" secondAttribute="centerX" id="pgc-wT-M7X"/>
+                            <constraint firstItem="diZ-ea-TX7" firstAttribute="width" secondItem="6t7-fk-JlY" secondAttribute="width" id="sFt-sg-akc"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="6t7-fk-JlY" secondAttribute="bottom" id="669-je-3as"/>
+                <constraint firstItem="6t7-fk-JlY" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="Ql0-oc-uob"/>
+                <constraint firstItem="6t7-fk-JlY" firstAttribute="leading" secondItem="ZTg-uK-7eu" secondAttribute="leading" id="XjK-uB-vpz"/>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="trailing" secondItem="6t7-fk-JlY" secondAttribute="trailing" id="cBW-TW-3P6"/>
+            </constraints>
+            <connections>
+                <outlet property="offerImageView" destination="diZ-ea-TX7" id="gWa-of-5PS"/>
+            </connections>
+            <point key="canvasLocation" x="-7.2463768115942031" y="67.633928571428569"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="offers" width="330" height="140"/>
+    </resources>
+</document>

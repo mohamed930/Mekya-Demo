@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Mekyal
+
+  Created by Mohamed Ali on 17/01/2022.
+  
+*/
+
+"lang" = "ara";
+
+"Villa"             = "فيلا";
+"Building"          = "شقه";
+"Commercial"        = "تجارى";
+"Resend in "        = "اعادة الارسال فى ";
+"s"                 = "ثانيه";
+"EGP"               = "جنيه مصرى";
+"KG"                = "كيلو غرام";
+"PCs"               = "قطعه";
+"Quantity"          = "الكميه";
+"SearchPlaceHolder" = "ما الذى تحتاجه";
+"NotePlaceHolder"   = "اىوجد طلب خاص تريده";
+
+"update"            = "تحديث";
+"Cancel"            = "الغاء الامر";
+
+"UpdateName"        = "تحديث الاسم";
+"userNewName"       = "ادخل اسم المستخدم الجديد:";
+"EnterName"         = "ادحل الاسم";
+
+"Updateaddress"      = "تحديث العنوان";
+"newaddress"         = "ادخل العنوان الجديد:";
+"EnterAddress"       = "ادخل العنوان";
+
+"Updatetelephone"    = "تحديث تليفون";
+"newtele"            = "ادخل رقم التليفون الجديد:";
+"Entertelephone"     = "ادخل رقم التليفون";
+
+"Logout"             = "تسجيل الخروج";
+"logmess"            = "هل انت متأكد من تسجيل الخروج؟";
+
+"track"              = "تتبع الاوردر";

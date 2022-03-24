@@ -1,0 +1,69 @@
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "6N2-4f-1G1"; */
+"6N2-4f-1G1.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "40.59 EPG"; ObjectID = "7St-8U-qgg"; */
+"7St-8U-qgg.text" = "40.59 EPG";
+
+/* Class = "UITextField"; text = "Log out"; ObjectID = "8DV-Nd-57R"; */
+"8DV-Nd-57R.text" = "تسجيل الخروج";
+
+/* Class = "UILabel"; text = "Fri,30 Dec 2021"; ObjectID = "Ck6-mC-0GP"; */
+"Ck6-mC-0GP.text" = "Fri,30 Dec 2021";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Dx3-m7-Fn9"; */
+"Dx3-m7-Fn9.text" = "المجموع الكلى";
+
+/* Class = "UITextField"; placeholder = "User name"; ObjectID = "EPx-HZ-1Xa"; */
+"EPx-HZ-1Xa.placeholder" = "اسم المستخدم";
+
+/* Class = "UITextField"; placeholder = "City name"; ObjectID = "OTO-Yc-TqG"; */
+"OTO-Yc-TqG.placeholder" = "اسم المدينه";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "RBw-13-QIY"; */
+"RBw-13-QIY.text" = "العمر";
+
+/* Class = "UILabel"; text = "Your Profile"; ObjectID = "TVA-dr-ux4"; */
+"TVA-dr-ux4.text" = "الصفحه الشخصيه";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "U0V-MS-Ez7"; */
+"U0V-MS-Ez7.text" = "0.0";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "aCi-R2-8cB"; */
+"aCi-R2-8cB.text" = "0.0";
+
+/* Class = "UILabel"; text = "Madinty, Group-6, Building-3, Apt-4"; ObjectID = "ap1-OY-UFi"; */
+"ap1-OY-UFi.text" = "Madinty, Group-6, Building-3, Apt-4";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "gqy-eB-wU1"; */
+"gqy-eB-wU1.text" = "0.0";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "ho0-XS-OmN"; */
+"ho0-XS-OmN.text" = "المدينه";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "ijp-lc-D8D"; */
+"ijp-lc-D8D.placeholder" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Paid in cash"; ObjectID = "mCX-Qz-8Pn"; */
+"mCX-Qz-8Pn.text" = "الدفع عند الاستلام";
+
+/* Class = "UILabel"; text = "delivery"; ObjectID = "tWq-4N-wwo"; */
+"tWq-4N-wwo.text" = "قيمه التوصيل";
+
+/* Class = "UILabel"; text = "Subtotal"; ObjectID = "uHA-hN-6tF"; */
+"uHA-hN-6tF.text" = "المبلغ الجرئى";
+
+/* Class = "UILabel"; text = "Your Orders"; ObjectID = "vMD-qX-qhN"; */
+"vMD-qX-qhN.text" = "طلباتك";
+
+/* Class = "UIButton"; normalTitle = "Track your order"; ObjectID = "wZ6-Qn-IC2"; */
+"wZ6-Qn-IC2.normalTitle" = "تتبع الاوردر";
+
+/* Class = "UILabel"; text = "10:00 AM"; ObjectID = "weg-dJ-EZL"; */
+"weg-dJ-EZL.text" = "10:00 AM";
+
+/* Class = "UITextField"; placeholder = "City name"; ObjectID = "wqO-iV-V9d"; */
+"wqO-iV-V9d.placeholder" = "اسم المدينه";
+
+/* Class = "UILabel"; text = "Delivering"; ObjectID = "y2l-Tz-xbb"; */
+"y2l-Tz-xbb.text" = "يتم توصيله";

@@ -1,0 +1,34 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - MOLH (1.4.3)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - MOLH
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - MOLH
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  MOLH: e45827d200aeb1310641090fd8cd03ad2b42ae72
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: 68290c3133334b18a7d245f4ec672051a3b8e210
+
+COCOAPODS: 1.10.1

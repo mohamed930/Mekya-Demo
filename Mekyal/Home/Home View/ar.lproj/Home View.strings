@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "      Contact us"; ObjectID = "0Wh-9x-g7H"; */
+"0Wh-9x-g7H.text" = "      تواصل معانا";
+
+/* Class = "UILabel"; text = "delivery"; ObjectID = "0f5-O4-LlS"; */
+"0f5-O4-LlS.text" = "التوصيل";
+
+/* Class = "UILabel"; text = "      Your orders"; ObjectID = "6Cc-Mr-iQ9"; */
+"6Cc-Mr-iQ9.text" = "       طلباتك";
+
+/* Class = "UIButton"; normalTitle = "Add note"; ObjectID = "7YR-S0-WdG"; */
+"7YR-S0-WdG.normalTitle" = "اضف ملاحظه";
+
+/* Class = "UIButton"; normalTitle = "Buy now"; ObjectID = "9Gf-IA-wrv"; */
+"9Gf-IA-wrv.normalTitle" = "اشترى الآن";
+
+/* Class = "UIButton"; normalTitle = "To Checkout"; ObjectID = "IAC-GT-KFQ"; */
+"IAC-GT-KFQ.normalTitle" = "تفاصيل الطلب";
+
+/* Class = "UILabel"; text = "Subtotal"; ObjectID = "IFB-fJ-gH4"; */
+"IFB-fJ-gH4.text" = "السعر الجزئى";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Ico-b5-h7L"; */
+"Ico-b5-h7L.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Order now"; ObjectID = "KZ8-bH-QU8"; */
+"KZ8-bH-QU8.text" = "اطلب الآن";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "MhD-vo-JGI"; */
+"MhD-vo-JGI.text" = "0.0";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "XeL-8y-XSk"; */
+"XeL-8y-XSk.text" = "٠٫٠";
+
+/* Class = "UILabel"; text = "Basket"; ObjectID = "a4r-Ig-TSt"; */
+"a4r-Ig-TSt.text" = "سله المشتريات";
+
+/* Class = "UILabel"; text = "Quantity (kg)"; ObjectID = "bTu-Jl-ugC"; */
+"bTu-Jl-ugC.text" = "الكميه (كيلو غرام)";
+
+/* Class = "UILabel"; text = "Fruits & Vegetables"; ObjectID = "cI4-Bo-Tic"; */
+"cI4-Bo-Tic.text" = "خضروات و فواكه";
+
+/* Class = "UILabel"; text = "      about US"; ObjectID = "cTz-dg-pty"; */
+"cTz-dg-pty.text" = "      تفاصيل عنا";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "cf3-ed-3g6"; */
+"cf3-ed-3g6.title" = "المزيد";
+
+/* Class = "UILabel"; text = "      Language"; ObjectID = "drX-bY-ycR"; */
+"drX-bY-ycR.text" = "      اللغه";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "g7F-qR-iXA"; */
+"g7F-qR-iXA.text" = "٠";
+
+/* Class = "UILabel"; text = "      Profile"; ObjectID = "gfX-ff-EgM"; */
+"gfX-ff-EgM.text" = "      الصفحه الشخصيه";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "k2B-S5-HeM"; */
+"k2B-S5-HeM.title" = "الصفحه الرئيسيه";
+
+/* Class = "UIButton"; normalTitle = "Add to basket"; ObjectID = "lSN-Ex-i3q"; */
+"lSN-Ex-i3q.normalTitle" = "اضف الى سله المشتريات";
+
+/* Class = "UITabBarItem"; title = "Basket"; ObjectID = "mvF-7P-Khu"; */
+"mvF-7P-Khu.title" = "سله المشتريات";
+
+/* Class = "UILabel"; text = "Payment Summary"; ObjectID = "odX-gA-QYm"; */
+"odX-gA-QYm.text" = "ملخص الشراء";
+
+/* Class = "UITabBarItem"; title = "Favourite"; ObjectID = "omz-Hs-yrJ"; */
+"omz-Hs-yrJ.title" = "المفضله";
+
+/* Class = "UILabel"; text = "EGP"; ObjectID = "q54-cB-HFh"; */
+"q54-cB-HFh.text" = "جنيه مصرى";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "r4D-8e-qRR"; */
+"r4D-8e-qRR.text" = "السعر النهائي";
+
+/* Class = "UILabel"; text = "Delivering to Mohamed (Building 3-G3-Madinty)"; ObjectID = "sDg-2f-1yL"; */
+"sDg-2f-1yL.text" = "Delivering to Mohamed (Building 3-G3-Madinty)";
+
+/* Class = "UILabel"; text = "115"; ObjectID = "saG-6L-qGp"; */
+"saG-6L-qGp.text" = "١١٥";
+
+/* Class = "UILabel"; text = "Garlic"; ObjectID = "sek-kk-0Pg"; */
+"sek-kk-0Pg.text" = "جنزبيل";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "uS6-Lf-hbV"; */
+"uS6-Lf-hbV.text" = "٠٫٠";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "v33-BH-ao6"; */
+"v33-BH-ao6.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Favourites"; ObjectID = "yj3-0f-zPK"; */
+"yj3-0f-zPK.text" = "المفضله";
+
+/* Class = "UILabel"; text = "10 EGP"; ObjectID = "zc3-Zb-KQO"; */
+"zc3-Zb-KQO.text" = "١٠ جنيه مصرى";
